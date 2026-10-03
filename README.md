@@ -4,9 +4,9 @@ GoIT JavaScript course homework.
 
 ## Topics
 
-- Методы массивов `map`, `filter`, `sort` и `reduce`
-- Работа с массивом объектов пользователей
-- Поиск друзей, сортировка по количеству друзей и подсчёт баланса
+- Array methods: `map`, `filter`, `sort`, and `reduce`
+- Working with an array of user objects
+- Finding friends, sorting by friend count, and calculating balances
 
 ## Technologies
 
